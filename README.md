@@ -13,5 +13,10 @@ The sturcture of starting molecules can be drawn in MarvinSketch (64bit) softwar
 
 ![image](https://user-images.githubusercontent.com/18735742/75668808-cb4b7000-5c71-11ea-82c0-9983e2dd1978.png)
 
+Detailed explaination can be found in the Supplymentary Information of this publication.
+
 ### Deployment
 The script operates in a given working directory and requires cluster to be configured beforehand.
+
+### Authors
+Design and code by Liwei Cao (@liweicao) and Mikhail Kabeshov (@mit-24)
