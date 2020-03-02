@@ -19,4 +19,4 @@ Detailed explaination can be found in the Supplymentary Information of this publ
 The script operates in a given working directory and requires cluster to be configured beforehand.
 
 ### Authors
-Design and code by Liwei Cao (@liweicao) and Mikhail Kabeshov (@mit-24)
+Design and code by Liwei Cao and Dr Mikhail Kabeshov
